@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents_2tentativa</string>
+    <string name="caixadetexto">Insira uma mensagem</string>
+    <string name="botao">Enviar</string>
+</resources>
